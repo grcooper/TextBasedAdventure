@@ -1,0 +1,19 @@
+C:\Users\Shadow\AppData\Local\Temporary Projects\AssassinEngine\bin\Debug\AssassinEngine.exe
+C:\Users\Shadow\AppData\Local\Temporary Projects\AssassinEngine\bin\Debug\AssassinEngine.pdb
+C:\Users\Shadow\AppData\Local\Temporary Projects\AssassinEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadow\AppData\Local\Temporary Projects\AssassinEngine\obj\x86\Debug\AssassinEngine.exe
+C:\Users\Shadow\AppData\Local\Temporary Projects\AssassinEngine\obj\x86\Debug\AssassinEngine.pdb
+C:\Users\Shadow\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.exe
+C:\Users\Shadow\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.pdb
+C:\Users\Shadow\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.exe
+C:\Users\Shadow\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.pdb
+C:\Users\Shadow\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.exe
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.exe
+H:\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.pdb
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.pdb
+H:\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.exe.manifest
+H:\Programming\AssassinEngine\AssassinEngine\bin\Debug\AssassinEngine.application
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.exe.manifest
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Debug\AssassinEngine.application

@@ -1,0 +1,13 @@
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\bin\Debug\AssassinEditor.exe
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\bin\Debug\AssassinEditor.pdb
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\MainWindow.baml
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\MainWindow.g.cs
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\App.g.cs
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\AssassinEditor_MarkupCompile.cache
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\AssassinEditor.g.resources
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\AssasinEditor.Properties.Resources.resources
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\AssassinEditor.exe
+H:\Programming\AssassinEngine\AssassinEditor\AssassinEditor\obj\x86\Debug\AssassinEditor.pdb

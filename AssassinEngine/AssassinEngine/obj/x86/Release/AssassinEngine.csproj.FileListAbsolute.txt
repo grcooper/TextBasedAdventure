@@ -1,0 +1,9 @@
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Programming\AssassinEngine\AssassinEngine\bin\Release\AssassinEngine.exe
+H:\Programming\AssassinEngine\AssassinEngine\bin\Release\AssassinEngine.pdb
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Release\AssassinEngine.exe
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Release\AssassinEngine.pdb
+H:\Programming\AssassinEngine\AssassinEngine\bin\Release\AssassinEngine.exe.manifest
+H:\Programming\AssassinEngine\AssassinEngine\bin\Release\AssassinEngine.application
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Release\AssassinEngine.exe.manifest
+H:\Programming\AssassinEngine\AssassinEngine\obj\x86\Release\AssassinEngine.application

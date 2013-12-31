@@ -1,0 +1,13 @@
+H:\Game_Battle\BattleSystem_Final\BattleSystem_Final\bin\Debug\BattleSystem_Final.exe
+H:\Game_Battle\BattleSystem_Final\BattleSystem_Final\bin\Debug\BattleSystem_Final.pdb
+H:\Game_Battle\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Game_Battle\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.exe
+H:\Game_Battle\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.pdb
+C:\Users\Shadow\Programming\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.exe
+C:\Users\Shadow\Programming\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.pdb
+C:\Users\Shadow\Programming\BattleSystem_Final\BattleSystem_Final\bin\Debug\BattleSystem_Final.exe
+C:\Users\Shadow\Programming\BattleSystem_Final\BattleSystem_Final\bin\Debug\BattleSystem_Final.pdb
+C:\Users\Shadow\Programming\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\AssassinEngine\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.exe
+H:\Programming\AssassinEngine\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\BattleSystem_Final.pdb
+H:\Programming\AssassinEngine\BattleSystem_Final\BattleSystem_Final\obj\x86\Debug\ResolveAssemblyReference.cache
